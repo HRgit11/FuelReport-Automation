@@ -6,6 +6,7 @@
 
 ⚠️ Важно: Файл appsettings.json исключен из репозитория по соображениям безопасности.
 Скопируйте appsettings.Example.json → переименуйте в appsettings.json → заполните своими данными.
+
 🛠 Технологический стек
 Backend: ASP.NET Core Web API (.NET 6/7/8), Entity Framework Core, PostgreSQL
 Client: WPF (.NET Framework / .NET Core), Microsoft Office Interop, HttpClient
